@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Victor Capitelli!
+# 👋 Hello, I'm Victor André!
 &emsp;
 I'm a passionate Front-end Developer based in São Paulo, Brazil. With experience in Vue.js, Angular, TypeScript, and more, my focus is on creating clean, functional, and interactive user interfaces while solving complex challenges.
 - 💻 Developer with a vision to solve problems beyond just coding.
@@ -7,7 +7,6 @@ I'm a passionate Front-end Developer based in São Paulo, Brazil. With experienc
 &emsp;
 
 ## 🛠️ My Skills
--------------------
 ### Programming languages:
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -38,5 +37,3 @@ I'm a passionate Front-end Developer based in São Paulo, Brazil. With experienc
 Email: [capitellivictor@gmail.com](mailto:capitellivictor@gmail.com)
 &emsp;
 LinkedIn: [Victor Capitelli](https://www.linkedin.com/in/victor-capitelli/)
-
-Let's build the future, one line of code at a time! 🚀

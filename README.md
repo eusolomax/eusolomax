@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Victor André!
 &emsp;
-I'm a passionate Front-end Developer based in São Paulo, Brazil. With experience in Vue.js, Angular, TypeScript, and more, my focus is on creating clean, functional, and interactive user interfaces while solving complex challenges.
+I'm a passionate Front-end Developer based in São Paulo, Brazil. With experience in Vue.js, Angular, TypeScript, and more. My focus is on creating clean, functional, and interactive user interfaces while solving complex challenges.
 - 💻 Developer with a vision to solve problems beyond just coding.
 - 🎯 Aspiring Tech Lead, striving to lead projects and teams to success.
 - 🌟 Recognized for leadership and dedication in Front-end development, with accomplishments like BI dashboards and interactive maps.
@@ -29,8 +29,6 @@ I'm a passionate Front-end Developer based in São Paulo, Brazil. With experienc
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 ![Insomnia](https://img.shields.io/badge/-INSOMNIA-000?&logo=insomnia)
-
-![Victor's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=eusolomax&theme=tokyonight)
 
 ## 📫 Let's Connect!
 &emsp;
